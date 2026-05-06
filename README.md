@@ -1,7 +1,7 @@
 # WinUltimateTool
 
 <div align="center">
-  <img src="logo.ico" alt="WinUltimateTool Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/JanJan36/WinUltimateTool/main/logo.ico" alt="WinUltimateTool Logo" width="120" height="120">
 </div>
 
 A comprehensive Windows utility toolkit for system maintenance, network diagnostics, storage management, and application updates.
