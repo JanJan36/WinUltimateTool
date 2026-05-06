@@ -1,9 +1,10 @@
 # WinUltimateTool
 
 <div align="center">
-  <img src="https://i.imgur.com/P0ivQ2e.png" alt="WinUltimateTool Logo" width="120" height="120">
+  <img src="https://i.imgur.com/P0ivQ2e.png" alt="WinUltimateTool Logo" width="150" height="150">
 </div>
 
+<br>
 
 A comprehensive Windows utility toolkit for system maintenance, network diagnostics, storage management, and application updates.
 
